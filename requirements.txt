@@ -1,5 +1,4 @@
-numpy
-pickle
-PyTorch
-chatterbot
-chatterbot.trainers
+
+
+
+
