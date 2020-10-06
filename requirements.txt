@@ -9,8 +9,6 @@ Flask==1.1.2
 future==0.18.2
 
 
-
-nltk==3.5
 nltk
 npm==0.1.1
 numpy==1.18.5
