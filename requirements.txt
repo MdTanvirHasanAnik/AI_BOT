@@ -1,4 +1,4 @@
--f https://download.pytorch.org/whl/torch_stable.html
+-f https://download.pytorch.org/whl/cpu/torch_stable.html
 ChatterBot==1.0.1
 chatterbot-corpus==1.2.0
 click==7.1.2
@@ -7,5 +7,5 @@ future==0.18.2
 nltk
 npm==0.1.1
 numpy==1.18.5
-http://download.pytorch.org/whl/cpu/torch-0.4.1-cp36-cp36m-linux_x86_64.whl
-torchvision
+https://download.pytorch.org/whl/cpu/torch-1.6.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torchvision-0.7.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
